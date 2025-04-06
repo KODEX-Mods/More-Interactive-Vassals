@@ -1,0 +1,95 @@
+﻿l_german:
+rule_improved_civil_wars_game_rules:0 "#high More Interactive Vassals: Bürgerkriege"
+setting_improved_civil_wars_enabled:0 "Aktiviert"
+setting_improved_civil_wars_enabled_desc:0 "Vasallen ergreifen in Bürgerkriegen Partei: Sie können sich auf die Seite des Lehnsherrn schlagen, ihre Neutralität erklären oder sich auf die Seite der Rebellen stellen und sich deren Fraktion anschließen."
+setting_improved_civil_wars_disabled:0 "Deaktiviert"
+setting_improved_civil_wars_disabled_desc:0 ""
+
+rule_call_allied_vassals_game_rules:0 "#high More Interactive Vassals: Vasallenbündnisse"
+setting_call_allied_vassals_enabled:0 "Aktiviert"
+setting_call_allied_vassals_enabled_desc:0 "Wenn Ihr mit einem Vasallen verbündet seid, können sie in externe Kriege gerufen werden und werden sich in Bürgerkriegen immer auf die Seite ihres Lehnsherren stellen."
+setting_call_allied_vassals_disabled:0 "Deaktiviert"
+setting_call_allied_vassals_disabled_desc:0 ""
+
+rule_miv_loyalist_game_rules:0 "#high More Interactive Vassals: Loyalistenfraktion"
+setting_miv_loyalist_enabled:0 "Aktiviert"
+setting_miv_loyalist_enabled_desc:0 "Vasallen können eine Loyalistenfraktion bilden, um das Reich zu stabilisieren und ihren Lehnsherrn vor internen Bedrohungen zu schützen."
+setting_miv_loyalist_disabled:0 "Deaktiviert"
+setting_miv_loyalist_disabled_desc:0 ""
+
+rule_border_vassals_join_game_rules:0 "#high More Interactive Vassals: Externe Kriege"
+setting_border_vassals_join_enabled:0 "Aktiviert"
+setting_border_vassals_join_enabled_desc:0 "Im Krieg werden Vasallen, die an das gegnerische Reich grenzen, sowohl im Falle eines Angriffs als auch einer Verteidigung zu den Waffen gerufen."
+setting_border_vassals_join_disabled:0 "Deaktiviert"
+setting_border_vassals_join_disabled_desc:0 ""
+
+rule_vassals_join_claims_game_rules:0 "#high More Interactive Vassals: Vasallenansprüche“
+setting_vassals_join_claims_enabled:0 "Aktiviert"
+setting_vassals_join_claims_enabled_desc:0 "Wenn der Anspruch eines Vasallen geltend gemacht wird oder wenn ein Vasall seinen Titel an einen Anspruchsteller verlieren würde, werden sie zu den Waffen gerufen."
+setting_vassals_join_claims_disabled:0 "Deaktiviert"
+setting_vassals_join_claims_disabled_desc:0 ""
+
+rule_indirect_vassals_game_rules:0 "#high More Interactive Vassals: Indirekte Vasallen“
+setting_indirect_vassals_join:0 "Aktiviert"
+setting_indirect_vassals_join_desc:0 "Vasallen können ihre eigenen Vasallen in den Krieg rufen, wenn sie gegen unabhängige Herrscher oder gegen ihre Mitvasallen im Reich kämpfen."
+setting_indirect_vassals_dont_join:0 "Deaktiviert"
+setting_indirect_vassals_dont_join_desc:0 ""
+
+rule_opposition_faction_game_rules:0 "#high More Interactive Vassals: Verräterische Vasallen"
+setting_opposition_faction_enabled:0 "Aktiviert"
+setting_opposition_faction_enabled_desc:0 "Vasallen können versuchen, ihren Lehnsherrn zu hintergehen und externen Feinden zu helfen, sofern sie mit dem externen Angreifer oder Verteidiger verbündet sind."
+setting_opposition_faction_disabled:0 "Deaktiviert"
+setting_opposition_faction_disabled_desc:0 ""
+
+rule_ai_improvements_game_rules:0 "#high More Interactive Vassals: Aggressive KI"
+setting_ai_improvements_enabled:0 "Aktiviert"
+setting_ai_improvements_enabled_desc:0 "KI-Herrscher werden aggressiver handeln, angemessene Boni erhalten und mächtige Reiche auf der gesamten Karte errichten."
+setting_ai_improvements_disabled:0 "Deaktiviert"
+setting_ai_improvements_disabled_desc:0 ""
+
+rule_miv_starting_game_rules:0 "#high More Interactive Vassals: Ereigniskriege"
+setting_miv_starting_enabled:0 "Aktiviert"
+setting_miv_starting_enabled_desc:0 "Die Funktionen in dieser Mod gelten nicht für das Beginnen von Ereigniskriegen in Vanilla und anderen Mods, um Balanceschwierigkeiten zu vermeiden."
+setting_miv_starting_disabled:0 "Deaktiviert"
+setting_miv_starting_disabled_desc:0 ""
+
+rule_miv_modifiers_game_rules:0 "#high More Interactive Vassals: Meinungsmodifikatoren"
+setting_miv_modifiers_enabled:0 "Aktiviert"
+setting_miv_modifiers_enabled_desc:0 "Vasallen erhalten neue Meinungsmodifikatoren während Bürgerkriegen und immer dann, wenn ein Lehnsherr seine Banner in den Krieg ruft."
+setting_miv_modifiers_disabled:0 "Deaktiviert"
+setting_miv_modifiers_disabled_desc:0 ""
+
+rule_great_wars_kingdom_game_rules:0 "#high More Interactive Vassals: Große Kriege"
+setting_great_wars_kingdom_enabled:0 "Aktiviert"
+setting_great_wars_kingdom_enabled_desc:0 "Kriege, die auf Königreichs- oder Großreichstitel abzielen, rufen jeden direkten Vasallen zu den Waffen. Das könnte zu Leistungsproblemen führen."
+setting_great_wars_kingdom_disabled:0 "Deaktiviert"
+setting_great_wars_kingdom_disabled_desc:0 ""
+
+rule_player_easy_mode_game_rules:0 "#high More Interactive Vassals: Sandkastenmodus"
+setting_player_easy_mode_enabled:0 "Aktiviert"
+setting_player_easy_mode_enabled_desc:0 "Erlaubt einen Unterwerfungs-Kriegsgrund für alle, gibt Versorgungslimit-Boni und macht jeden Krieg zu einem Großen Krieg."
+setting_player_easy_mode_disabled:0 "Deaktiviert"
+setting_player_easy_mode_disabled_desc:0 ""
+
+interactive.0001.title:0 "Ein Ruf zu den Waffen"
+interactive.0001.desc:0 "Angesichts des Beginns des [war.GetName] hat unser Lehnsherr seine Banner gerufen und nun müssen wir entscheiden, wie wir auf diesen Ruf reagieren.\n\nAls Vasall könnten wir einfach nur einige unserer Aufgebote schicken und neutral bleiben, aber vielleicht wäre es auch vorteilhafter, direkt in den Konflikt einzugreifen.\n\nEs soll bekannt gegeben werden, dass sich Haus [ROOT.Char.GetHouse.GetName]..."
+interactive.0001.a:0 "Für unseren Lehnsherrn in den Krieg zieht"
+interactive.0001.b:0 "An dem Konflikt nicht direkt teilhaben wird"
+interactive.0001.c:0 "Gegen unseren Lehnsherren stellen muss"
+
+border_vassal_opinion:0 "In externen Krieg gerufen"
+great_war_vassal_opinion:0 "In offensiven Großen Krieg einberufen"
+civil_wars_vassal_opinion:0 "Feind in Bürgerkrieg"
+ally_civil_wars_vassal_opinion:0 "Verbündeter in Bürgerkrieg"
+internal_turmoil_vassal_opinion:0 "Interner Konflikt (jüngster Bürgerkrieg)"
+ai_improvements:0 "Schwierigkeit"
+player_improvements:0 "Spieler-Schwierigkeit"
+
+great_war_tooltip:0 "#V Dies ist ein Großer Krieg, und jeder direkte Vasall beider Reiche wird zu den Waffen gerufen werden, sobald er beginnt!#!"
+bordering_subrealm_tooltip:0 "#X Angreifende Vasallen#!"
+subrealm_vassal_tooltip:0 "#X Verteidigende Vasallen#!"
+claims_vassal_tooltip:0 "#X Anspruchsteller#!"
+
+ crown_loyalist_faction:1 "Loyalistenfraktion"
+ crown_loyalist_faction_desc:1 "Mitglieder der Loyalistischen [faction|E]  versuchen, das Reich ihres [liege|E] zu schützen.\n\n#S Effekte#!\nAlle Fraktionsmitglieder heben ihre Armeen zur Verteidigung ihres [Concept('liege', 'Lehnsherrn')|e] im Falle eines [Concept('war', 'Krieges')|e] durch eine feindliche [faction|e]."
+ crown_loyalist_faction_short_effect_desc:0 "Will den [Concept('liege', 'Lehnsherrn')|e] vor feindlichen [factions|e] schützen"
